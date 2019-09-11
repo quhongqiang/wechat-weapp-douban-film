@@ -1,3 +1,5 @@
+![一张图片](https://github.com/fengtuoyang/wechat-weapp-douban-film/blob/master/images/vr.png?raw=true)
+
 # wechat-weapp-doubanfilm
 微信小程序--豆瓣电影--音乐播放--地图
 
